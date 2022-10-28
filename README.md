@@ -1,10 +1,8 @@
 Hi 👋 My name is Goran
 ======================
 
-Full Stack Web Developer
-------------------------
-
-I am a Web Developer who loves React and everything that comes with it!
+Full Stack Web Developer who loves React and everything that comes with it!
+------------------------ 
 
 * 🌍  I'm based in San Diego
 * ✉️  You can contact me at [g.cvetic23@gmail.com](mailto:g.cvetic23@gmail.com)
