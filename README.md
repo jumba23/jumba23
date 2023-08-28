@@ -6,7 +6,6 @@ Full Stack Web Developer who loves React and everything that comes with it!
 
 * 🌍  I'm based in San Diego
 * ✉️  You can contact me at [g.cvetic23@gmail.com](mailto:g.cvetic23@gmail.com)
-* 🧠  I'm learning Rubi on Rails
 * 🤝  I'm open to collaborating on Full Stack applications
 * ⚡  Love building apps and learning new technologies
 
