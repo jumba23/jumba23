@@ -1,7 +1,4 @@
-Hi 👋 My name is Goran
-======================
-
-Full Stack Developer
+Full Stack Developer | React, NextJs, Node, TypeScript 
 ------------------------ 
 
 * 🌍  I'm based in San Diego
