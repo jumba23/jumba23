@@ -1,7 +1,7 @@
 Hi 👋 My name is Goran
 ======================
 
-Full Stack Web Developer who loves React and everything that comes with it!
+Full Stack Developer
 ------------------------ 
 
 * 🌍  I'm based in San Diego
